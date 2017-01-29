@@ -1,0 +1,9 @@
+# Generated files
+out/
+
+.idea
+
+*.iml
+
+# OS
+.DS_Store
